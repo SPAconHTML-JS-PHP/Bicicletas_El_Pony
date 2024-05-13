@@ -2,8 +2,8 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top d-block" style="background-color: #B8D9D5;">
     <div class="container">
       <div class="d-inline m-0">
-        <img src="IMG/index/Logo.png" alt="" style="width: 100px;">
-        <a class= href="" style="color: cadetblue;"> <i class="fas fa-phone" id="telefono"></i>Llamar</a>
+        <img src="IMG/index/Logo.svg" alt="" style="width: 100px;">
+        <a class= href="http://wa.me/+573044632346" style="color: cadetblue;"><i class="fas fa-phone" id="telefono"></i>Llamar</a>
       </div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -17,17 +17,11 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
-              Servicios
+              Ingresa a tu Cuenta
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="diseno-de-sonrisa.php">Diseño de Sonrisa.</a>
-              <a class="dropdown-item" href="blanqueamiento.php">Blanqueamiento.</a>
-              <a class="dropdown-item" href="rehabilitacion.php">Rehabilitación.</a>
-              <a class="dropdown-item" href="implantes.php">Implantes.</a>
-              <a class="dropdown-item" href="carillas.php">Carillas.</a>
-              <a class="dropdown-item" href="coronas.php">Coronas.</a>
-              <a class="dropdown-item" href="neurofocal.php">Odontologia Neurofocal.</a>
-              <a class="dropdown-item" href="resinas.php">Resinas.</a>
+              <a class="dropdown-item" href="diseno-de-sonrisa.php">Ingresa con tu Usuario</a>
+              <a class="dropdown-item" href="blanqueamiento.php">Crea una Nueva Cuenta.</a>
             </div>
           </li>
           <li class="nav-item">

@@ -14,7 +14,7 @@ function component($nombreproducto,$precioproducto,$productimg,$productid, $come
                 <h6>
                     <i class=\"fas fa-star\"></i>
                     <i class=\"fas fa-star\"></i>
-                    <i class=\"fas fa-star\"></i>
+                    <i class=\"far fa-star\"></i>
                     <i class=\"far fa-star\"></i>
                 </h6>
                 <p class=\"card-text fuente-Lato font-weight-light\">
@@ -35,4 +35,3 @@ function component($nombreproducto,$precioproducto,$productimg,$productid, $come
 }
 
 ?>
-
