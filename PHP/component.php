@@ -7,7 +7,7 @@ function component($nombreproducto,$precioproducto,$productimg,$productid, $come
     <form action=\"comprar.php\" method=\"post\">
         <div class=\"card shadow\">
             <div>
-                <img src=\"$productimg\" alt=\"producto1\" class=\"img-fluid card-img-top\">
+                <img src=\"$productimg\" alt=\"$comentario\" class=\"img-fluid card-img-top\">
             </div>
             <div class=\"card-body\">
                 <h5 class=\"card-title\">$nombreproducto</h5>

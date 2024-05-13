@@ -12,8 +12,8 @@ class CreaBD
 
     //Claseconstructor
     public function __construct(
-        $nombrebd ="nuevaBD",
-        $nombretabla="Productosbd",
+        $nombrebd ="elponyweb",
+        $nombretabla="tiendas",
         $servidor="localhost",
         $usuario="root",
         $contrasena=""

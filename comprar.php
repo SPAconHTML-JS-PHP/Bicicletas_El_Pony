@@ -1,22 +1,23 @@
 <?php
-
+//iniciamos una sesion
 session_start();
 
 //importamos el header -->
 include("INCLUDES/header.php");
-
 require_once("INCLUDES/header-compra.php");
-//iniciamos una sesion
 
-// Creamos la base de datos si se requiere -->
-require_once("PHP/CreaBD.php");
+
+// Conecta la BD-->
+require_once("PHP/conectaBD.php");
+
+
+require_once 'php/CreaBD.php';
 
 // incluimos los componentes de productos -->
 require_once("PHP/component.php");
 
-    //creamos la instancia de la base de datos
-    $database = new CreaBD("BDproductos","tablaproductos");
-
+    //el registro de esta compra
+    $database = new CreaBD('elponyweb','inventario','localhost','root','');
     if(isset($_POST['agregar']))
     {
        // print_r($_POST['product_id']);
@@ -68,7 +69,7 @@ include("INCLUDES/NavBar.php");
             $result = $database->getData();
             while($row = mysqli_fetch_assoc($result))
             {
-                component($row['nombre_producto'],$row['precio_producto'],$row['imagen_producto'],$row['id'], $row['comentario']);
+                component($row['nombre'],$row['precio'],$row['imagen'],$row['id'], $row['descripcion']);
             }
         ?>
     </div>

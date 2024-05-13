@@ -2,8 +2,8 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top d-block" style="background-color: #B8D9D5;">
     <div class="container">
       <div class="d-inline m-0">
-        <img src="IMG/index/Logo.svg" alt="" style="width: 100px;">
-        <a class= href="http://wa.me/+573044632346" style="color: cadetblue;"><i class="fas fa-phone" id="telefono"></i>Llamar</a>
+        <img src="IMG/index/Logo.svg" alt="" style="width: 120px;">
+        <a class= href='http://wa.me/+573044632346' style="color: cadetblue;"><i class="fas fa-phone" id="telefono"></i>Llamar</a>
       </div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,8 +20,8 @@
               Ingresa a tu Cuenta
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="diseno-de-sonrisa.php">Ingresa con tu Usuario</a>
-              <a class="dropdown-item" href="blanqueamiento.php">Crea una Nueva Cuenta.</a>
+              <a class="dropdown-item" href="login.php">Ingresa con tu Usuario</a>
+              <a class="dropdown-item" href="registro.php">Crea una Nueva Cuenta.</a>
             </div>
           </li>
           <li class="nav-item">
@@ -37,7 +37,7 @@
             <a class="nav-link disabled" href="#">Blog</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#footer">Contacto</a>
+            <a class="nav-link" href="index.php#FormContacto">Contacto</a>
           </li>
         </ul>
       </div>

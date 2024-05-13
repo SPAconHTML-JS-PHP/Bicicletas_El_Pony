@@ -108,7 +108,7 @@
             <img class="card-img-top" src="IMG/accesos/contactanos.png" alt="Card image cap">
             <div class="card-body">
               <div>
-                <a href="diseno-de-sonrisa.php" class="btn btn-info btn-block">Contactanos</a>
+                <a href="index.php#FormContacto" class="btn btn-info btn-block">Contactanos</a>
               </div>
             </div>
           </div>
@@ -173,14 +173,14 @@
       <span class="sr-only">Previous</span>
     </a>
     <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="carousel-control-next-icon"  aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
     <!--/.Controls-->
   </div>
   <!--/.Carousel Wrapper-->
 
-
+  <div class="apuntador" id="FormContacto">
 
   <!-- Contacto -->
   <div class="container contact-form" data-aos="flip-down">
