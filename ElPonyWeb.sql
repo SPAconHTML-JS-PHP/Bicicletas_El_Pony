@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 14-05-2024 a las 01:50:13
+-- Tiempo de generación: 14-05-2024 a las 04:33:46
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -20,8 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `elponyweb`
 --
-CREATE DATABASE IF NOT EXISTS `elponyweb` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `elponyweb`;
 
 -- --------------------------------------------------------
 

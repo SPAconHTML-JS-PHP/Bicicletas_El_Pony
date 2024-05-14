@@ -6,7 +6,7 @@ Este proyecto es una aplicación web de comercio electrónico construido usando 
 **Estructura del proyecto
 --------------------
 
-* **JS/App.js**: El punto de entrada principal de la aplicación
+* **index.php**: El punto de entrada principal de la aplicación
 **INCLUDES**: Carpeta que contiene las plantillas HTML de la aplicación
 	+ **header-compra.php**: Plantilla de cabecera para el carrito de Compras
 	+ **footer.php**: Plantilla de pie de página
@@ -34,4 +34,4 @@ Este proyecto es una aplicación web de comercio electrónico construido usando 
 		- ControladorPedidos.php**: Controlador de pedidos
 **IMG**: Carpeta que contiene las imágenes de la aplicación
 * Base de datos Carpeta que contiene los archivos de la base de datos MySQL
-	+ **database.sql**: Archivo de esquema de la base de datos
+	+ **ElPonyWeb.sql**: Archivo de esquema de la base de datos
