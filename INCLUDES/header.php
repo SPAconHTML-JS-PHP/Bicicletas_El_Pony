@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bicicletas</title>
+  <title>Bicicletas el Pony</title>
 
   <!-- Google Fonts -->
   <link
