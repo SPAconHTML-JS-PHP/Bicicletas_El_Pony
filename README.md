@@ -23,15 +23,13 @@ Este proyecto es una aplicación web de comercio electrónico construido usando 
 	+ **component.php**: Carpeta que contiene los archivos de creacion de los componentes
 		- **creadb.php**: Configuración de la conexión a la base de datos asi como la creación de un punto de restauracion.
 	+ **database**: Carpeta que contiene los archivos de la base de datos
-		- Base de datos.php**: Funciones de conexión y consulta de la base de datos
+		- **ElPonyWeb.sql**: Archivo de esquema de la base de datos
 	+ **modelos**: Carpeta que contiene archivos de lógica de negocio
 		- **Producto.php**: Funciones de gestión de productos
 		- **Cart.php**: Funciones de gestión del carrito
 		- Pedidos.php**: Funciones de gestión de pedidos
 	+ **controladores**: Carpeta que contiene los archivos de los controladores
-		- **ControladorProducto.php**: Controlador de productos
+		- **ControladorUsuario.php**: Controlador de usuarios
 		- **CartController.php**: Controlador de carrito
-		- ControladorPedidos.php**: Controlador de pedidos
 **IMG**: Carpeta que contiene las imágenes de la aplicación
 * Base de datos Carpeta que contiene los archivos de la base de datos MySQL
-	+ **ElPonyWeb.sql**: Archivo de esquema de la base de datos
