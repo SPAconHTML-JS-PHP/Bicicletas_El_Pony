@@ -16,7 +16,7 @@ class CreaBD
         $nombretabla="tiendas",
         $servidor="localhost",
         $usuario="root",
-        $contrasena=""
+        $contrasena="1123"
     )
     {
         $this->nombrebd = $nombrebd;   

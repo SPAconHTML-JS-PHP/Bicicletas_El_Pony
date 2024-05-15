@@ -2,7 +2,7 @@
 session_start();
 require '../modelodao/UsuarioDao.php';
 require '../modelodto/UsuarioDto.php';
-require '../PHP/conectaBD.php';
+//require '../PHP/conectaBD.php';
 
 //Controla la consulta de la BD y asigna rol.
 if(isset($_POST['btnLogin'])){ //Dice que va a hacer el boton Login de la pagina Login.
