@@ -32,4 +32,4 @@ Este proyecto es una aplicación web de comercio electrónico construido usando 
 		- **ControladorUsuario.php**: Controlador de usuarios
 		- **CartController.php**: Controlador de carrito
 **IMG**: Carpeta que contiene las imágenes de la aplicación
-* Base de datos Carpeta que contiene los archivos de la base de datos MySQL
+
