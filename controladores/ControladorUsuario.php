@@ -23,7 +23,7 @@ if(isset($_POST['btnLogin'])){ //Dice que va a hacer el boton Login de la pagina
            
         }
         else{
-            echo "<script> window.location.replace('registro.php'); </script>"; 
+            echo "<script> window.location.replace('../registro.php'); </script>"; 
            
        }
 
