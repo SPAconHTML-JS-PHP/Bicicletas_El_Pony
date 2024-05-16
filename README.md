@@ -1,7 +1,7 @@
 Elaborado por:
-Rodrigo Prias
-Alexander Echeverri
-Nestor Alexander
+Rodrigo Prias,
+Alexander Echeverri,
+Nestor Alexander,
 
 
 **Proyecto web de comercio electrónico**
