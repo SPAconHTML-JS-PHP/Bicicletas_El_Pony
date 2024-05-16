@@ -24,7 +24,7 @@
         <div class="col-md-6 my-auto">
           <div data-aos="fade-left">
             <h1 class="h1 font-weight-bold text-center">Acerca de los Desarrolladores</h1>
-            <p class="p fuente-Lato font-weight-light text-justify text-center">Esta pagina fue adaptada para dar alcace a los requerientos
+            <p class="p fuente-Lato font-weight-light text-justify text-center">.Esta pagina fue adaptada para dar alcace a los requerientos
             de la Actividad de Construccion Aplicada de la Materia: Ingenieria de SoftWare I, Ficha 52274. Consta de varias paginas creadas
             con PHP, integradas a una base de datos Central en PHPMyAdmin. Con procedimientos JavaScript que permite dar cumplimiento a lo solicitado
             en el documento.<br>El equipo de Desarrolladores esta integrado por Integrado por:<br><font strong>Rodrigo Prias Murcia<br>Alexander Echeverri Vasquez</font><br>Néstor Alexander Jimenez Quintin</font><br>Mismo equipo
