@@ -37,8 +37,9 @@
                                 required />
                                 <span class="password-hint">Al menos 6 caracteres, mayúsculas, minúsculas, números y símbolos</span>
                               <input type="submit" id="btnLogin" name="btnLogin" class="btn btn-primary btn-block text-light mt-3" value="Ingresar"/>
-                              <input type="submit" id="btnLogin" name="Mirarquebotones" class="btn btn-primary btn-block text-light mt-3" value="No tienes cuenta?, Registrate"/>
+                              
                               </form>
+                              <input type="submit" id="btnLogin" name="Mirarquebotones" class="btn btn-primary btn-block text-light mt-3" value="No tienes cuenta?, Registrate"/>
                             </div>
 
                           </dv>
