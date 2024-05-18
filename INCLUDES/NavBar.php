@@ -31,7 +31,7 @@
             <a class="nav-link" href="comprar.php">Comprar</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">Empresas</a>
+            <a class="nav-link" href="empresas.php">Empresas</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="#">Blog</a>
