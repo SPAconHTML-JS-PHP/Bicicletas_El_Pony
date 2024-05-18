@@ -29,7 +29,7 @@
                 </div>
                 <div class="col-12">
                 <label  for="contrasena">Contraseña</label>
-                <input type="password" id="txtClave" name="txtClave" class="form-control" minlength="6" 
+                <input type="password" id="txtContrasena" name="txtContrasena" class="form-control" minlength="6" 
                                 pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{6,}$" 
                                 placeholder="Contraseña segura" 
                                 required />
