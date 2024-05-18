@@ -19,22 +19,22 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Inicio</a>
+                        <a class="nav-link" href="index2.php">Inicio</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" href="experiencias2.php">Experiencias</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="experiencias.php">Experiencias</a>
+                        <a class="nav-link" href="comprar.php">Comprar</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="comprar_login.php">Comprar</a>
+                        <a class="nav-link" href="empresas2.php">Empresas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="empresas.php">Empresas</a>
+                        <a class="nav-link" href="index2.php#FormContacto">Contacto</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php#FormContacto">Contacto</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="login_admin.php">Control Admin</a>
+                        <a class="nav-link " href="index.php">Cerrar Cesion</a>
                     </li>
                 </ul>
             </div>

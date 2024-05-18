@@ -7,7 +7,7 @@ include("INCLUDES/header.php");
 require_once("INCLUDES/header-compra.php");
 
 // NavBar -->
-include("INCLUDES/NavBar.php");
+include("INCLUDES/NavBar_comprar.php");
 
 // Conecta la BD-->
 require_once 'php/CreaBD.php';
