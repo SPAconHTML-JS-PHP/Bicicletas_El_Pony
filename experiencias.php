@@ -18,6 +18,14 @@
 
 <!-- NavBar -->
 <?php include("INCLUDES/NavBar.php");?>
+ 
+<!-- HEADER y fondo particles.js-->
+  <div class="container text-center vh-75 pb-4">
+    <div id="particles-js"></div>
+    <div id="overlay">
+      <img src="IMG/index/Logo.svg" alt="" class="w-75">
+    </div>
+  </div>
 
 <!-- Experiencias de Usuarios -->
 <section id="experiencias" class="py-4">
