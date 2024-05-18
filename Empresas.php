@@ -20,7 +20,7 @@
 <?php include("INCLUDES/NavBar.php");?>
 
 <!-- Experiencias de Usuarios -->
-<section id="experiencias" class="py-4">
+<section id="Empresa" class="py-4">
     <div class="container">
         <h2 class="text-center mb-4">Experiencias de Nuestros Usuarios con El Pony</h2>
         <div class="row">
