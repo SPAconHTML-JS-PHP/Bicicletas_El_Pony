@@ -13,7 +13,7 @@
     require_once("PHP/component2.php");
 
     //el registro de esta compra
-    $database = new CreaBD('elponyweb','inventario','localhost','root','1123');
+    $database = new CreaBD('elponyweb','inventario','localhost','root','');
 
 ?>
 
@@ -36,3 +36,5 @@
 </div>
 
 
+<!-- importamos el footer -->
+<?php include("INCLUDES/footer.php");?>
