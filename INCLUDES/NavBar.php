@@ -34,9 +34,6 @@
             <a class="nav-link" href="empresas.php">Empresas</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">Blog</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="index.php#FormContacto">Contacto</a>
           </li>
         </ul>
