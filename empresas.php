@@ -32,7 +32,7 @@
         <div class="row">
             <div class="col-md-4 mb-4" data-aos="fade-up">
                 <div class="card h-100">
-                    <img src="IMG/marcas/gw.jpg" class="card-img-top" alt="GW">
+                <img src="IMG/empresas/empresa01.png" class="card-img-top" alt="empresa01">
                     <div class="card-body">
                         <h5 class="card-title">GW</h5>
                     </div>
@@ -40,7 +40,7 @@
             </div>
             <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="card h-100">
-                    <img src="IMG/marcas/trek.jpg" class="card-img-top" alt="Trek">
+                <img src="IMG/empresas/empresa02.png" class="card-img-top" alt="empresa02">
                     <div class="card-body">
                         <h5 class="card-title">Trek</h5>
                     </div>
@@ -48,7 +48,7 @@
             </div>
             <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="IMG/marcas/specialized.jpg" class="card-img-top" alt="Specialized">
+                <img src="IMG/empresas/empresa03.png" class="card-img-top" alt="empresa03">
                     <div class="card-body">
                         <h5 class="card-title">Specialized</h5>
                     </div>
@@ -58,7 +58,7 @@
         <div class="row">
             <div class="col-md-4 mb-4" data-aos="fade-up">
                 <div class="card h-100">
-                    <img src="IMG/marcas/scott.jpg" class="card-img-top" alt="Scott">
+                <img src="IMG/empresas/empresa04.png" class="card-img-top" alt="empresa04">
                     <div class="card-body">
                         <h5 class="card-title">Scott</h5>
                     </div>
@@ -66,7 +66,7 @@
             </div>
             <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="card h-100">
-                    <img src="IMG/marcas/cannondale.jpg" class="card-img-top" alt="Cannondale">
+                <img src="IMG/empresas/empresa05.png" class="card-img-top" alt="empresa05">
                     <div class="card-body">
                         <h5 class="card-title">Cannondale</h5>
                     </div>
@@ -74,7 +74,7 @@
             </div>
             <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="IMG/marcas/giant.jpg" class="card-img-top" alt="Giant">
+                <img src="IMG/empresas/empresa06.png" class="card-img-top" alt="empresa06">
                     <div class="card-body">
                         <h5 class="card-title">Giant</h5>
                     </div>
