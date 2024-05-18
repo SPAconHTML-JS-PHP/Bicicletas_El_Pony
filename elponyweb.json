@@ -1,0 +1,49 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"elponyweb"},
+{"type":"table","name":"admin_tienda","database":"elponyweb","data":
+[
+{"id":"2","email":"rbolanos@tiendaselpony.com","contrasena":"Temp0ral","nombres":"Roberto","apellidos":"Gomez Bolaños","tienda_id":"1","ingreso_en":"2024-05-13 15:11:34","actualizado_en":"2024-05-13 15:11:34"}
+]
+}
+,{"type":"table","name":"inventario","database":"elponyweb","data":
+[
+{"id":"1","tienda_id":"1","nombre":"BICICLETA MTB OPTIMUS","descripcion":"DISEÑADA PARA OFRECERTE UN RENDIMIENTO EXCEPCIONAL Y VERSATILIDAD EN CUALQUIER TERRENO, ÚNICA EN SU CLASE PARA EXPLORAR SENDEROS CON CONFIANZA Y ESTILO. CON UN CUADRO DE ALUMINIO RESISTENTE Y LIGERO, Y UNA TRANSMISIÓN DE 13 VELOCIDADES.","precio":"1540000.00","cantidad":"50","imagen":"img\/productos\/producto-2.jpg","ingreso_en":"2024-05-13 22:42:04","actualizado_en":"2024-05-14 17:40:18"},
+{"id":"2","tienda_id":"1","nombre":"BICICLETA DE MTB GW OCELOT DE 10V","descripcion":"DESCRIPCIÓN\r\nEXPERIMENTA LA EXCELENCIA EN BICICLETAS DE MONTAÑA CON LA GW OCELOT EQUIPADA CON EL AVANZADO GRUPO SHIMANO CUES DE 10 VELOCIDADES Y UN MONOPLATO, DISFRUTA DE UN RENDIMIENTO SIN IGUAL Y LA ÚLTIMA TECNOLOGÍA DE SHIMANO EN CADA PEDALEO. ","precio":"1750000.00","cantidad":"20","imagen":"img\/productos\/producto-1.jpg","ingreso_en":"2024-05-14 17:13:59","actualizado_en":"2024-05-14 17:37:25"},
+{"id":"3","tienda_id":"1","nombre":"BICICLETA DE MTB VENZO ZORYA RIN 27.5 3X9","descripcion":"DESCRIPCIÓN\r\nLA MTB VENZO ZORYA ES UNA BICICLETA QUE CUENTA CON UNA COMBINACIÓN 3X9, PERFECTA DE RESISTENCIA Y LIGEREZA, TE DARÁ LA COMODIDAD QUE NECESITAS PARA ALCANZAR TU AVENTURA EN LA MONTAÑA.\r\nMARCA: VENZO\r\nREFERENCIA: ZORYA 3X9\r\n","precio":"990000.00","cantidad":"20","imagen":"img\/productos\/producto-3.jpg","ingreso_en":"2024-05-14 17:24:18","actualizado_en":"2024-05-14 17:39:36"},
+{"id":"4","tienda_id":"1","nombre":"BICICLETA DE MTB GW PIRANHA ","descripcion":"DESCRIPCIÓN\r\nEXPERIMENTA LA EXCELENCIA EN BICICLETAS DE MONTAÑA CON LA GW PIRANHA EQUIPADA CON EL AVANZADO GRUPO SHIMANO CUES DE 9 VELOCIDADES Y UN MONOPLATO, DISFRUTA DE UN RENDIMIENTO SIN IGUAL Y LA ÚLTIMA TECNOLOGÍA DE SHIMANO EN CADA PEDALEO. \r\n","precio":"1700000.00","cantidad":"20","imagen":"img\/productos\/producto-4..jpg","ingreso_en":"2024-05-14 17:24:18","actualizado_en":"2024-05-14 18:14:48"},
+{"id":"5","tienda_id":"1","nombre":"BICICLETA PIÑÓN LIBRE GW BROOKLYN ","descripcion":"DESCRIPCIÓN\r\nDOMINA LA CIUDAD CON LA BICICLETA GW BROOKLYN. DISEÑADA PARA LOS CICLISTAS URBANOS MODERNOS QUE BUSCAN ESTILO, SIMPLICIDAD Y FUNCIONALIDAD,MARCO: ALUMINIO\r\nTENEDOR: ALUMINIO\r\nPOSTE: GW\r\nMONOPLATO: POSEIDON DE 48 DIENTES EN ALUMINIO","precio":"1200000.00","cantidad":"30","imagen":"img\/productos\/producto-5.jpg","ingreso_en":"2024-05-14 17:44:39","actualizado_en":"2024-05-14 17:46:12"},
+{"id":"6","tienda_id":"1","nombre":"BICICLETA RUTA ONTRAIL","descripcion":"DESCRIPCIÓN\r\n\r\nCON UN DISEÑO LIGERO Y AERODINÁMICO, LA BICICLETA DE RUTA POSEIDON TE PERMITE MOVERTE CON FACILIDAD EN CARRETERAS Y ALCANZAR VELOCIDADES IMPRESIONANTES. SU MARCO RESISTENTE Y DURADERO ESTÁ DISEÑADO PARA BRINDARTE ESTABILIDAD Y CONTROL. \r\n","precio":"1000000.00","cantidad":"10","imagen":"img\/productos\/producto-6.jpg","ingreso_en":"2024-05-14 20:54:40","actualizado_en":"2024-05-14 20:59:24"},
+{"id":"7","tienda_id":"1","nombre":"BICICLETA RUTA ALUMINIO RUGOZ TECH 10V","descripcion":"DESCRIPCIÓN\r\nLA BICICLETA DE RUTA RUGOZ TECH EN ALUMINIO ES UNA OPCIÓN IDEAL PARA LLEVAR LA EMOCIÓN DE LA RUTA A LA CIUDAD. DISEÑADA CON MATERIALES DE ALTA CALIDAD Y PENSADA PARA UN RENDIMIENTO ÓPTIMO UNA COMBINACIÓN DE COMODIDAD Y DURABILIDAD.","precio":"1300000.00","cantidad":"15","imagen":"img\/productos\/producto-7.jpg","ingreso_en":"2024-05-14 21:06:15","actualizado_en":"2024-05-14 21:10:38"},
+{"id":"8","tienda_id":"1","nombre":"BICICLETA FIXIE PIÑÓN LIBRE ONTRAIL","descripcion":"DESCRIPCIÓN\r\nEN POSEIDON ARMAMOS BICICLETAS PARA TODOS NUESTROS BIKERS, A MEDIDA DE LAS EXIGENCIAS Y GUSTOS DE NUESTRA FAMILIA, EN ESTA OCASIÓN TENEMOS LA BICICLETA DE PIÑÓN LIBRE ONTRAIL-COLOR LITE. RINES: DOBLE PARED CON LÍNEA DE FRENADO EN ALUMINIO","precio":"890000.00","cantidad":"20","imagen":"img\/productos\/producto-8.jpg","ingreso_en":"2024-05-14 21:14:55","actualizado_en":"2024-05-14 21:18:58"},
+{"id":"9","tienda_id":"1","nombre":"BICICLETA FIXIE POSEIDÓN PHILOTIMO ALUMINIO","descripcion":"HILOTIMO ES UNA CONCETO GRIEGO, QUE SE TRADUCE COMO \"AMOR AL HONOR\"MARCO: ALUMINIO 6061 TRIPLE BUTTED, SOLDADURAS POLISH\r\nTENEDOR: FULL ALUMINIO 6061\r\nPOSTE: POSEIDON 27.2 MM ALUMINIO\r\nABRAZADERA: POSEIDON ALUMINIO.\r\nRUEDAS: POSEIDON DE PERFIL BAJO DOBLE PARED - 36H","precio":"1150000.00","cantidad":"25","imagen":"img\/productos\/producto-9.jpg","ingreso_en":"2024-05-15 01:39:23","actualizado_en":"2024-05-15 01:39:23"}
+]
+}
+,{"type":"table","name":"lista_compra","database":"elponyweb","data":
+[
+
+]
+}
+,{"type":"table","name":"lista_compras","database":"elponyweb","data":
+[
+
+]
+}
+,{"type":"table","name":"sesion_compra","database":"elponyweb","data":
+[
+
+]
+}
+,{"type":"table","name":"tiendas","database":"elponyweb","data":
+[
+{"id":"1","nombre":"Tienda Principal","direccion":"Calle 27 No. 11-54, Barrio Nariño","ingreso_en":"2024-05-13 15:09:32","actualizado_en":"2024-05-13 15:10:06"}
+]
+}
+,{"type":"table","name":"usuarios","database":"elponyweb","data":
+[
+{"id":"1","rol":"Cliente","email":"rodrigo.prias@gmail.com","contrasena":"Temp0ral*","nombres":"Rodrigo","apellidos":"Prias","ingreso_en":"2024-05-13 16:01:53","actualizado_en":"2024-05-13 16:01:53"},
+{"id":"3","rol":"Admin","email":"alex@cun.edu.co","contrasena":"Temp0ral*","nombres":"Alex","apellidos":"Echeverri","ingreso_en":"2024-05-15 22:51:41","actualizado_en":"2024-05-15 22:52:48"},
+{"id":"4","rol":"Cliente","email":"jose@xn--adfoja-wwa.com","contrasena":"","nombres":"Rodrigo","apellidos":"Prias","ingreso_en":"2024-05-15 23:16:24","actualizado_en":"2024-05-15 23:16:24"}
+]
+}
+]
