@@ -1,6 +1,6 @@
 <?php
-require_once '../conectaBD.php';
-require_once '../CreaBD.php';
+require_once '../PHP/conectaBD.php';
+
 class UsuarioDao {
 
     public function registrarUsuario(UsuarioDto $usuarioDto) {

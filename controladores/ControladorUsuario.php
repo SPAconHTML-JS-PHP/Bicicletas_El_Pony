@@ -2,7 +2,7 @@
 session_start();
 require '../modelodao/UsuarioDao.php';
 require '../modelodto/UsuarioDto.php';
-require '../conectaBD.php';
+require_once '../PHP/conectaBD.php';
 
 //Controla la consulta de la BD y asigna rol.
 if(isset($_POST['btnLogin'])){ //Dice que va a hacer el boton Login de la pagina Login.
@@ -23,8 +23,7 @@ if(isset($_POST['btnLogin'])){ //Dice que va a hacer el boton Login de la pagina
         }
         elseif($_SESSION['rol']=='Admin'){
             echo "<script> window.location.replace('../admin-tienda.php'); </script>"; 
-           
-       }
+        }
 
 
    }
@@ -37,6 +36,7 @@ window.location.replace('../login.php');
 </script>"; 
     
    }
+}
 
 
 ?>
