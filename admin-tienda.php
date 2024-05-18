@@ -11,6 +11,16 @@
     </div>
 </div>
 
+<!-- Metemso un Boton que diga Regsitrar Usuario -->
+
+
+
+<!-- Metemos Modificar usuarios -->
+
+
+<!-- Metemos un boton para Modficar Inventario -->
+
+
 
 <!-- importamos el footer -->
 <?php include("INCLUDES/footer.php")?>
