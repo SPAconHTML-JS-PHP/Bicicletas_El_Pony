@@ -22,7 +22,7 @@ if(isset($_POST['btnLogin'])){ //Dice que va a hacer el boton Login de la pagina
              </script>"; 
            
         }
-        else{
+        elseif{$_SESSION['rol']=='Admin'){
             echo "<script> window.location.replace('../registro.php'); </script>"; 
            
        }
