@@ -7,7 +7,7 @@ include("INCLUDES/header.php");
 require_once("INCLUDES/header-compra.php");
 
 // NavBar -->
-include("INCLUDES/NavBar.php");
+include("INCLUDES/NavBar_comprar.php");
 
 // Conecta la BD-->
 require_once 'php/CreaBD.php';
@@ -16,7 +16,7 @@ require_once 'php/CreaBD.php';
 require_once("PHP/component.php");
 
     //el registro de esta compra
-    $database = new CreaBD('elponyweb','inventario','localhost','root','1123');
+    $database = new CreaBD('elponyweb','inventario','localhost','root','');
 
     if(isset($_POST['agregar']))
     {

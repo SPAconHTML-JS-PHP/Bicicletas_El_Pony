@@ -17,7 +17,7 @@
 <?php include("INCLUDES/header.php");?>
 
 <!-- NavBar -->
-<?php include("INCLUDES/NavBar.php");?>
+<?php include("INCLUDES/NavBar_comprar.php");?>
 
 <!-- HEADER y fondo particles.js-->
 <div class="container text-center vh-75 pb-4">
