@@ -7,7 +7,6 @@ require_once("INCLUDES/header-compra.php");;
 // NavBar -->
 include("INCLUDES/NavBar.php");
 
-require_once("INCLUDES/header-compra.php");
 ?>
 
 
