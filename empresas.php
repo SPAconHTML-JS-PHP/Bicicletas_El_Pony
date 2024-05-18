@@ -26,7 +26,7 @@
 </div>
 
 <!-- Empresas y Marcas -->
-<section id="marcas" class="py-4 bg-light">
+<section id="marcas" class="py-4" style="position: relative; z-index: 2;">
     <div class="container">
         <h2 class="text-center mb-4">Empresas y Marcas con las que Trabajamos</h2>
         <div class="row">
@@ -94,6 +94,13 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 <script>
     AOS.init();
+</script>
+<!-- particles.js script -->
+<script src="path/to/particles.js"></script>
+<script>
+    particlesJS.load('particles-js', 'path/to/particles.json', function() {
+        console.log('particles.js loaded - callback');
+    });
 </script>
 </body>
 </html>
