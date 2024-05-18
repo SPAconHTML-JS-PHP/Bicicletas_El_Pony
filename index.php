@@ -27,8 +27,8 @@
             <p class="p fuente-Lato font-weight-light text-justify text-center">.Esta pagina fue adaptada para dar alcace a los requerientos
             de la Actividad de Construccion Aplicada de la Materia: Ingenieria de SoftWare I, Ficha 52274. Consta de varias paginas creadas
             con PHP, integradas a una base de datos Central en PHPMyAdmin. Con procedimientos JavaScript que permite dar cumplimiento a lo solicitado
-            en el documento.<br>El equipo de Desarrolladores esta integrado por Integrado por:<br><font strong>Rodrigo Prias Murcia<br>Alexander Echeverri Vasquez</font><br>Néstor Alexander Jimenez Quintin</font><br>Mismo equipo
-            que le ha venido "pedaleando" a la aventura de ser Ingenieros de Sistemas en la CUN desde el Año pasado. En conjuto se manejó el perfil de de Project
+            en el documento.<br>El equipo de Desarrolladores esta integrado por Integrado por:<br><font strong>Rodrigo Prias Murcia<br>Alexander Echeverri Vasquez<br>Néstor Alexander Jimenez Quintin</font><br>Mismo equipo
+            que le ha venido "pedaleando" a la aventura de ser Ingenieros de Sistemas en la CUN desde el Año pasado. En conjunto se manejó el perfil de de Project
             manager del Modelo SCRUM.<br> Gracias por su tiempo y atención a este trabajo.</br></p>
           </div>
         </div>

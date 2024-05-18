@@ -3,6 +3,7 @@ function component($nombreproducto,$precioproducto,$productimg,$productid, $come
 {
     $precioventa = number_format($precioproducto*1.25,0,".",".");
     $preciocliente = number_format($precioproducto*1,0,".",".");
+    $comentario = mb_strtolower($comentario);
     $element ="
 
     <div class=\"col-lg-3 col-md-6 col-sm-12 my-3 \">
@@ -20,7 +21,7 @@ function component($nombreproducto,$precioproducto,$productimg,$productid, $come
                     <i class=\"far fa-star\"></i>
                 </h6>
                 <p class=\"card-text fuente-Lato font-weight-light\">
-                    $comentario
+                $comentario
                 </p>
                 <h5>
                 <small><s class=\"text-secondary\">$$precioventa></s></small>
