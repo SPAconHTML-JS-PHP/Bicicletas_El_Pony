@@ -36,7 +36,7 @@ class UsuarioDto {
         return $this->contrasena; 
     } 
     function setContrasena($contrasena) { 
-        $this->con = $contrasena;  
+        $this->contrasena = $contrasena;  
     }
 
     function getNombreUsuario() { return $this->nombres; } 
