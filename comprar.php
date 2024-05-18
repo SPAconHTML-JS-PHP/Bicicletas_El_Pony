@@ -16,7 +16,7 @@ require_once 'php/CreaBD.php';
 require_once("PHP/component.php");
 
     //el registro de esta compra
-    $database = new CreaBD('elponyweb','inventario','localhost','root','');
+    $database = new CreaBD('elponyweb','inventario','localhost','root','1123');
 
     if(isset($_POST['agregar']))
     {
