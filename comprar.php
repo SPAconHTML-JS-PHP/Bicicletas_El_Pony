@@ -6,11 +6,10 @@ session_start();
 include("INCLUDES/header.php");
 require_once("INCLUDES/header-compra.php");
 
+// NavBar -->
+include("INCLUDES/NavBar.php");
 
 // Conecta la BD-->
-require_once("PHP/conectaBD.php");
-
-
 require_once 'php/CreaBD.php';
 
 // incluimos los componentes de productos -->
@@ -18,6 +17,7 @@ require_once("PHP/component.php");
 
     //el registro de esta compra
     $database = new CreaBD('elponyweb','inventario','localhost','root','1123');
+
     if(isset($_POST['agregar']))
     {
        // print_r($_POST['product_id']);
@@ -52,8 +52,7 @@ require_once("PHP/component.php");
     };
 
 
-// NavBar -->
-include("INCLUDES/NavBar.php");
+
 
 ?>
 
