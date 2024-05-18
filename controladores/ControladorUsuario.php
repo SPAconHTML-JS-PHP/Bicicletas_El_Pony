@@ -2,8 +2,7 @@
 session_start();
 require '../modelodao/UsuarioDao.php';
 require '../modelodto/UsuarioDto.php';
-require '../PHP/conectaBD.php';
-
+require '../conectaBD.php';
 
 //Controla la consulta de la BD y asigna rol.
 if(isset($_POST['btnLogin'])){ //Dice que va a hacer el boton Login de la pagina Login.
@@ -17,7 +16,7 @@ if(isset($_POST['btnLogin'])){ //Dice que va a hacer el boton Login de la pagina
         
 //Captura y Analiza Quien entró
 
-        if($_SESSION['rol']=="Cliente"){
+        if($_SESSION['rol']=='Cliente'){
              echo "<script> window.location.replace('../comprar.php'); 
              </script>"; 
            
@@ -38,9 +37,6 @@ window.location.replace('../login.php');
 </script>"; 
     
    }
-
-   
-}
 
 
 ?>

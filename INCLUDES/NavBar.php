@@ -25,7 +25,7 @@
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#">Experiencias</a>
+            <a class="nav-link disabled" href="experiencias.php">Experiencias</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="comprar.php">Comprar</a>
