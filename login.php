@@ -40,13 +40,8 @@
                 </div>  
              </dv> 
             </form>
+            <a class="btn btn-primary btn-block text-light mt-3" href="registro.php" role="button">No tienes Cuenta? Registrate</a>
           </div>
-          <a
-            class="btn btn-primary"
-            href="registro.php"
-            role="button"
-            >No tienes Cuenta? Registrate
-          </a>
       </div>
     </div>
   </div>
