@@ -3,7 +3,7 @@
     <div class="container">
       <div class="d-inline m-0">
         <img src="IMG/index/Logo.svg" alt="" style="width: 100px;">
-        <a class= href='http://wa.me/+573044632346' style="color: cadetblue;"><i class="fas fa-phone" id="telefono"></i>Llamar</a>
+      
       </div>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
