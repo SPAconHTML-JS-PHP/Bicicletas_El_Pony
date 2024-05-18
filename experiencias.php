@@ -23,7 +23,6 @@
   <div class="container text-center vh-75 pb-4">
     <div id="particles-js"></div>
     <div id="overlay">
-      <img src="IMG/index/Logo.svg" alt="" class="w-75">
     </div>
   </div>
 
