@@ -1,5 +1,6 @@
 <?php
-
+require_once '../conectaBD.php';
+require_once '../CreaBD.php';
 class UsuarioDao {
 
     public function registrarUsuario(UsuarioDto $usuarioDto) {
@@ -94,7 +95,8 @@ class UsuarioDao {
 }
 
 public function login($email,$contrasena) {
-        $cnn = Conexion::getConexion();        
+        $cnn = Conexion::getConexion();
+        $mensaje = "";        
         try {
             $query = $cnn->prepare('SELECT usuarios.* FROM usuarios where email= ? and contrasena=?');
             $query->bindParam(1, $email);
