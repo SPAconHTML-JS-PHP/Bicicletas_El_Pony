@@ -28,7 +28,7 @@
             <a class="nav-link" href="experiencias.php">Experiencias</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="comprar.php">Comprar</a>
+            <a class="nav-link" href="comprar_login.php">Comprar</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="empresas.php">Empresas</a>
