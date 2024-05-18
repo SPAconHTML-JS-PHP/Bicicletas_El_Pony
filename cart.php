@@ -1,5 +1,9 @@
 <?php 
+
+// Importamos los headers
 include("INCLUDES/header.php");
+require_once("INCLUDES/header-compra.php");;
+
 // NavBar -->
 include("INCLUDES/NavBar.php");
 

@@ -1,9 +1,11 @@
+
+
 <header id="header">
     <div class="container">
     <nav class="navbar navbar-expand navbar-dark fixed-top">
         <a href="comprar.php" class="navbar-brand">
             <h3 class="px-2">
-                <i class="fas fa-shopping-basket"></i>Tienda
+                <i class="fas fa-shopping-basket"></i>Mira las Bicis
             </h3>
         </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
